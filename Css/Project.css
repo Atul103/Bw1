@@ -1,0 +1,99 @@
+
+.image1{
+	height: 330px;
+	width: 330px;
+	padding: 20px;
+}
+.image2{
+	height:300px;
+	width:300px;
+	margin-left:60px;
+}
+.image21{
+	height:300px;
+	width:300px;
+	margin-left:120px;
+}
+.image3 {
+	height:200px;
+	width:200px;
+	padding:10px;
+}
+.image4{
+
+    height:130px;
+    width:130px;
+    border-radius: 100px;
+    margin:0 auto;
+    display:block;
+}
+.modifyButton{
+    border-radius: 30px;
+    margin-left: 50px;
+    display:block;
+    margin: 0 auto;
+}
+.icon {
+	text-align:center;
+}
+#map {
+    height: 400px;
+    width: 100%;
+}
+
+.number{
+    font-size:30px;
+}
+
+.style2{
+    height:2px;
+    margin-left: 20px;
+}
+
+.people{
+    font-size:250%;
+    text-align: center;
+}
+
+
+
+
+.bg-black{
+    background-color: black;
+}
+
+.number{
+    font-size:30px;
+}
+
+.style2{
+    height:2px;
+    margin-left: 20px;
+}
+
+.icon{
+    text-align: center;
+}
+
+
+
+.pro{
+    font-size: 115px;
+    text-align: left;
+    padding-bottom: 270px;
+    font-family: 'Dancing Script', cursive;
+}
+body
+{
+	background-image: url("http://eskipaper.com/images/best-hd-wallpapers-33.jpg");
+	color: white;
+}
+.modifybutton {
+    border-radius: 30px;
+    margin-left: 50px;
+    display:block;
+    margin: 0 auto;
+}
+	
+}
+
